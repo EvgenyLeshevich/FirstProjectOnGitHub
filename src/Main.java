@@ -16,5 +16,6 @@ public class Main {
                 users) {
             System.out.println("My name is " + u.getFirstName() + ". I'm " + u.getAge() + " years old.");
         }
+        System.out.println("Bye my first project!!!");
     }
 }
